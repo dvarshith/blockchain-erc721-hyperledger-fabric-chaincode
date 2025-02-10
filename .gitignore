@@ -1,0 +1,22 @@
+# General OS files
+.DS_Store
+Thumbs.db
+
+# Node or Python
+node_modules/
+venv/
+__pycache__/
+
+# Solidity / Remix
+remix-backups/
+
+# Go / Fabric
+*.exe
+*.out
+vendor/
+build/
+.cache/
+
+# Docker
+*.tar
+*.img
